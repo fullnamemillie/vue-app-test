@@ -1,3 +1,16 @@
+
+
+![Screen](https://github.com/fullnamemillie/vue-app-test/blob/master/screen-1.png)
+
+![Screen](https://github.com/fullnamemillie/vue-app-test/blob/master/screen-2.png)
+
+![Screen](https://github.com/fullnamemillie/vue-app-test/blob/master/screen-3.png)
+
+![Screen](https://github.com/fullnamemillie/vue-app-test/blob/master/screen-4.png)
+
+![Screen](https://github.com/fullnamemillie/vue-app-test/blob/master/screen-5.png)
+
+
 # vue-for-job
 
 This template should help get you started developing with Vue 3 in Vite.
