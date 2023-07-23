@@ -6,6 +6,8 @@
 
 Ссылка на работающую стринцу: https://fullnamemillie.github.io/vue-app-test/
 
+Скриншоты прилагаются.
+
 ![Screen](https://github.com/fullnamemillie/vue-app-test/blob/master/screen-1.png)
 
 ![Screen](https://github.com/fullnamemillie/vue-app-test/blob/master/screen-2.png)
