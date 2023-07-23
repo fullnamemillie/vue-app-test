@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+}
+
+html,
+body {
+  max-height: 100%;
+  max-width: 100%;
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(16, 16, 22, 1) 0%,
+    rgba(47, 47, 47, 1) 100%
+  );
+}
